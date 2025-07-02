@@ -175,9 +175,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Reaishma N**
 - Email: [vra.9618@gmail.com](mailto:vra.9618@gmail.com)
 - GitHub: [@Reaishma](https://github.com/Reaishma)
-- Portfolio: [Your Portfolio URL]
+- Portfolio: [https://new.express.adobe.com/webpage/3dP7n40mSx6LX]
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with modern web development best practices
 - Utilizes industry-standard tools and frameworks
