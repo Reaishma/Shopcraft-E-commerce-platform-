@@ -175,14 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Reaishma N**
 - Email: [vra.9618@gmail.com](mailto:vra.9618@gmail.com)
 - GitHub: [@Reaishma](https://github.com/Reaishma)
-- Portfolio: https://new.express.adobe.com/webpage/3dP7n40mSx6LX 
-
-
-
-## You can view  Live Demo on
-
-
-[View Live Demo](https://ae94d3ba-551d-4da1-a08b-96682616eff5-00-1a2x7pxg3lfsd.spock.replit.dev/)
 
 
 
